@@ -1,30 +1,31 @@
-<!-- 	created with www.mysitemapgenerator.com	 -->
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<style type="text/css" id="night-mode-pro-style">html {background-color: #FFFFFF !important; filter: grayscale(2%) brightness(76%) !important;} body {background-color: #FFFFFF;}</style>
-<link type="text/css" rel="stylesheet" id="night-mode-pro-link"/>
-<channel>
-<title>心為根本</title>
-<description>禪空轉劫伴病身 無裡還有果成因。 哭笑是苦觀自在 生死向空法唯心。</description>
-<language>zh</language>
-<pubDate>Thu, 01 Apr 2021 09:12:36 +0300</pubDate>
-<copyright>© 2021 大師望</copyright>
-<itunes:author>大師望</itunes:author>
-<itunes:owner>
-<itunes:name>大師望</itunes:name>
-<itunes:email>poorworm@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://www.mysitemapgenerator.com/cover/9369_80e317e1e38fc3f6df436adab8aaec8c.jpg?caption=%E5%BF%83%E7%82%BA%E6%A0%B9%E6%9C%AC"/>
-<itunes:type>episodic</itunes:type>
-<itunes:category text="Religion & Spirituality">
-<itunes:category text="Religion"/>
-</itunes:category>
-<itunes:explicit>false</itunes:explicit>
-<item>
-<title>six</title>
-<pubDate>Thu, 01 Apr 2021 00:00:00 +0300</pubDate>
-<enclosure length="1321340" type="audio/mpeg" url="https://www.mysitemapgenerator.com/cache/9369_1617257546002.mp3"/>
-<guid isPermaLink="false">3719571859</guid>
-<itunes:duration>82.546939</itunes:duration>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Dafna's Zebra Podcast</title>
+    <googleplay:author>Dafna</googleplay:author>
+    <description>人氣寵物斑馬的照護指南。</description>
+    <googleplay:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-us</language>
+    <link>https://www.example.com/podcasts/dafnas-zebras/</link>
+    <item>
+      <title>照顧斑馬的十大迷思</title>
+      <description>關於照顧、餵養、繁殖可愛的條紋動物常見的十大迷思。</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">dzpodtop10</guid>
+    </item>
+    <item>
+      <title>如何將斑馬保持地乾乾淨淨</title>
+      <description>將斑馬照顧得乾乾淨淨相當耗費時間，但成果絕對值得。</description>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/cleanstripes.mp3"
+                 type="audio/mpeg" length="26004388"/>
+      <itunes:duration>22:48</itunes:duration>
+      <guid>dzpodclean</guid>
+    </item>
+  </channel>
 </rss>
