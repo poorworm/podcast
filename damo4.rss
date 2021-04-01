@@ -17,7 +17,7 @@
       <enclosure length="1323008" type="audio/mpeg" url="https://github.com/poorworm/podcast/raw/main/six.mp3"/>
       <guid isPermaLink="false">damo00000000000001</guid>
       <itunes:duration>01:22</itunes:duration>
-      <guid isPermaLink="false">damo00000000000001</guid>
+      <guid isPermaLink="true">damo00000000000001</guid>
     </item>
   </channel> 
 </rss>
