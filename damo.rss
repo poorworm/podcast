@@ -2,6 +2,7 @@
 <rss version="2.0"
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <googleplay:owner>poorworm@gmail.com</googleplay:owner>
   <channel>
     <title>心為根本</title>
     <googleplay:author>大師望</googleplay:author>
