@@ -1,23 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<!-- 	created with www.mysitemapgenerator.com	 -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<style type="text/css" id="night-mode-pro-style">html {background-color: #FFFFFF !important; filter: grayscale(2%) brightness(76%) !important;} body {background-color: #FFFFFF;}</style>
+<link type="text/css" rel="stylesheet" id="night-mode-pro-link"/>
   <channel>
     <title>心為根本</title>
-    <googleplay:author>大師望</googleplay:author>    
-    <googleplay:owner>poorworm@gmail.com</googleplay:owner>
-    <description>學佛日記</description>
-    <googleplay:image href="https://github.com/poorworm/podcast/raw/main/damo.png"/>
-    <language>zh-tw</language>
-    <link>#/</link>
+    <description>禪空轉劫伴病身 無裡還有果成因。 哭笑是苦觀自在 生死向空法唯心。</description>
+    <language>zh</language>
+    <pubDate>Thu, 01 Apr 2021 08:43:15 +0300</pubDate>
+    <copyright>© 2021 大師望</copyright>
+    <itunes:author>大師望</itunes:author>
+    <itunes:owner>
+      <itunes:name>大師望</itunes:name>
+      <itunes:email>poorworm@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/poorworm/podcast/raw/main/damo.png"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Religion & Spirituality">
+    <itunes:category text="Buddhism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>六字大明咒</title>
       <description>清唱六字大明咒。</description>
-      <pubDate>Thursday, April 1, 2021 12:00:00 GMT+8</pubDate>
-      <enclosure url="https://github.com/poorworm/podcast/raw/main/six.m4a"
-                 type="audio/x-m4a" length="1375256"/>
-      <itunes:duration>01:22</itunes:duration>
-      <guid isPermaLink="false">damo000000001</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0300</pubDate>
+      <enclosure length="1321340" type="audio/mpeg" url="https://github.com/poorworm/podcast/raw/main/six.mp3"/>
+      <guid isPermaLink="false">273871717</guid>
+      <itunes:duration>82.546939</itunes:duration>
     </item>
   </channel>
 </rss>
