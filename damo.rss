@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>心為根本</title>
+    <googleplay:author>大師望</googleplay:author>
+    <description>學佛日記</description>
+    <googleplay:image href="https://github.com/poorworm/podcast/raw/main/damo.png"/>
+    <language>zh-tw</language>
+    <link>#/</link>
+    <item>
+      <title>六字大明咒</title>
+      <description>清唱六字大明咒。</description>
+      <pubDate>Thursday, April 1, 2021 12:00:00 GMT+8</pubDate>
+      <enclosure url="https://github.com/poorworm/podcast/raw/main/six.m4a"
+                 type="audio/x-m4a" length="1375256"/>
+      <itunes:duration>01:22</itunes:duration>
+      <guid isPermaLink="false">damo000000001</guid>
+    </item>
+  </channel>
+</rss>
