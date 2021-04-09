@@ -3,6 +3,8 @@
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:block>yes</itunes:block>
     <title>心為根本</title>
     <description>禪空轉劫伴病身 無裡還有果成因。 哭笑是苦觀自在 生死向空法唯心。</description>
     <googleplay:author>大師望</googleplay:author>
